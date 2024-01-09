@@ -1,0 +1,1 @@
+This mod was made with the help of ChatGPT. I play Melvor A LOT however I don't have any programming experience and I needed a mod that would allow me to speed up game ticks without affecting the whole game. Instead I needed a toggle for each skill. Largely just testing at the minute to make sure it works. 
